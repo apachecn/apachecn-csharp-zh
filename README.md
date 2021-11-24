@@ -9,6 +9,18 @@
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
+## 目录
+
++   [C# 代码整洁指南](docs/clean-code-cs/SUMMARY.md)
++   [C#10 和 .NET6 代码跨平台开发](docs/cs10-dnet6-modern-cross-plat-dev/SUMMARY.md)
++   [C# 数据结构和算法](docs/cs-dsal/SUMMARY.md)
++   [C# 机器学习项目](docs/cs-ml-proj/SUMMARY.md)
++   [C# 和 .NETCore 设计模式实用指南](docs/handson-design-ptn-cs-dnet/SUMMARY.md)
++   [C# 神经网络编程实用指南](docs/handson-nn-prog-cs/SUMMARY.md)
++   [C#5 多线程秘籍](docs/multi-thrd-cs5-cb/SUMMARY.md)
++   [C#9 和 .NET5 软件架构](docs/soft-arch-cs9-dnet5/SUMMARY.md)
++   [Xamarin.Forms 项目](docs/xmrn-form-proj/SUMMARY.md)
+
 ## 贡献指南
 
 本项目需要校对，欢迎大家提交 Pull Request。
