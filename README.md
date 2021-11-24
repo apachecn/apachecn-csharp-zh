@@ -29,6 +29,13 @@
 +   [Unity 2020 游戏开发实用指南](docs/handson-unity-2020-game-dev/SUMMARY.md)
 +   [C# 和 Unity 2021 游戏开发学习手册](docs/learn-cs-dev-game-unity-2021/SUMMARY.md)
 +   [C# 编程学习手册](docs/learn-cs-prog/SUMMARY.md)
++   [C#5 初次接触](docs/cs5-first-look/SUMMARY.md)
++   [C#7 和 .NET Core 2.0 蓝图](docs/cs7-dnet-core2-bp/SUMMARY.md)
++   [C#7 和 .NET Core 2.0 高性能](docs/cs7-dnet-core2-hiperf/SUMMARY.md)
++   [C#7 和 .NET Core 秘籍](docs/cs7-dnet-core-cb/SUMMARY.md)
++   [C# 函数式编程](docs/func-cs/SUMMARY.md)
++   [C# 面向对象编程实用指南](docs/handson-oop-cs/SUMMARY.md)
++   [C# 七天学习手册](docs/learn-cs-7d/SUMMARY.md)
 
 ## 贡献指南
 
