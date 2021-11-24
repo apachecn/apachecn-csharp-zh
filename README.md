@@ -20,6 +20,15 @@
 +   [C#5 多线程秘籍](docs/multi-thrd-cs5-cb/SUMMARY.md)
 +   [C#9 和 .NET5 软件架构](docs/soft-arch-cs9-dnet5/SUMMARY.md)
 +   [Xamarin.Forms 项目](docs/xmrn-form-proj/SUMMARY.md)
++   [C#7 入门实用指南](docs/begin-cs7-handson/SUMMARY.md)
++   [使用 UNO 平台创建跨平台 C# 应用](docs/create-cross-plat-cs-app-uno-plat/SUMMARY.md)
++   [使用 C++、C# 和 Lua 的 CryENGINE 游戏编程](docs/cryeng-game-prog-cpp-cs-lua/SUMMARY.md)
++   [C# 和 .NET Core 测试驱动开发](docs/cs-dnet-core-tdd/SUMMARY.md)
++   [ML.NET 机器学习实用指南](docs/handson-ml-mldn/SUMMARY.md)
++   [C#8 和 .NET Core3 并行编程实用指南](docs/handson-paral-prog-cs8-dnet-core3/SUMMARY.md)
++   [Unity 2020 游戏开发实用指南](docs/handson-unity-2020-game-dev/SUMMARY.md)
++   [C# 和 Unity 2021 游戏开发学习手册](docs/learn-cs-dev-game-unity-2021/SUMMARY.md)
++   [C# 编程学习手册](docs/learn-cs-prog/SUMMARY.md)
 
 ## 贡献指南
 
