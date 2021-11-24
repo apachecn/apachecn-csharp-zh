@@ -1,6 +1,12 @@
-# ApacheCN C# 译文集
+# C# 代码整洁指南
 
+> 原文：[Clean Code in C#](https://libgen.rs/book/index.php?md5=0768F2F2E3C709CF4014BAB4C5A2161B)
+> 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+> 
+> 阶段：机翻（1）
+> 
+> 自豪地采用[谷歌翻译](https://translate.google.cn/)
 > 
 > 我们都有看不开的时候，总有冷落自已的举动。但是我一定要提醒自己，如果还有明天。——薛岳
 《如果还有明天》
